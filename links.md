@@ -6,7 +6,7 @@ permalink: LINKS/
 <br>
 Week 0
 <br> <br>
-1.  [25 Years of Linux (Video)](https://www.youtube.com/watch?v=qFTIc5frqw8&list=PLU_Er81tl-Vka_GPCCakU6NLuyVh5QICp/)<br>
+1. [25 Years of Linux ](https://www.youtube.com/watch?v=qFTIc5frqw8&list=PLU_Er81tl-Vka_GPCCakU6NLuyVh5QICp/)<br>
 This is a YouTube video explaining the basic history of Linux. Pretty good video to watch to get an understanding of the historical context of Linux.
 
 2. [Linux vs Windows Difference](https://www.softwaretestinghelp.com/linux-vs-windows/)<br>
