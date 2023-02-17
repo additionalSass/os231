@@ -5,6 +5,7 @@ permalink: LINKS/
 # LINKS
 <br>
 Week 0
+<br> <br>
 1.  [25 Years of Linux (Video)](https://www.youtube.com/watch?v=qFTIc5frqw8&list=PLU_Er81tl-Vka_GPCCakU6NLuyVh5QICp/)<br>
 This is a YouTube video explaining the basic history of Linux. Pretty good video to watch to get an understanding of the historical context of Linux.
 
@@ -15,6 +16,7 @@ Why should we download Linux? There are several reasons we should consider, Linu
 This is a quick read that gives us reasons from the author on why he believes Linux is better than Windows. This is not bad at all.
 <br>
 Week 1
+<br> <br>
 1. [Operating System Course Site for OS231](https://os.vlsm.org/)<br>
 This is the Operating System course site. This site contains links to lecture materials, exam questions, and laboratory materials. Obviously, this has to be checked every week for weekly assignments and reports.
 
