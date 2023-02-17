@@ -12,9 +12,9 @@ Why should we download Linux? There are several reasons we should consider, Linu
 
 3.[11 Reasons Why Linux Is Better Than Windows](https://itsfoss.com/linux-better-than-windows/)<br>
 This is a quick read that gives us reasons from the author on why he believes Linux is better than Windows.
-
+<br>
 Week 1
-
+<br>
 1. [Operating System Course Site for OS231](https://os.vlsm.org/)<br>
 This is the Operating System course site. This site contains links to lecture materials, exam questions, and laboratory materials.
 
