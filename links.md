@@ -30,7 +30,7 @@ This is a site to learn command interactively and knows what that command does. 
 AWK is a command-line-based text-processing program which is very useful to extract useful information from raw data, especially from other programs. This video walks through some basic AWK use-cases and basic commands which are often used in real-life, including reated apps such as uniq.
 
 5. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/)<br>
-This is a nice site to show people some basic knowledge of LFS. Could definitely help me understanding LFS more.
+This is a nice site to show people some basic knowledge of LFS. This site could definitely help me understanding LFS more.
 
 <br>
 <hr>
