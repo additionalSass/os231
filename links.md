@@ -4,7 +4,9 @@ permalink: LINKS/
 
 # LINKS
 <br>
-Week 0
+
+## Week 00
+
 <br> <br>
 1. [25 Years of Linux (Video)](https://www.youtube.com/watch?v=qFTIc5frqw8&list=PLU_Er81tl-Vka_GPCCakU6NLuyVh5QICp/)<br>
 This is a YouTube video explaining the basic history of Linux. Pretty good video to watch to get an understanding of the historical context of Linux.
@@ -15,7 +17,9 @@ Why should we download Linux? There are several reasons we should consider, Linu
 3. [11 Reasons Why Linux Is Better Than Windows](https://itsfoss.com/linux-better-than-windows/)<br>
 This is a quick read that gives us reasons from the author on why he believes Linux is better than Windows. This is not bad at all.
 <br>
-Week 1
+
+## Week 01
+
 <br> <br>
 1. [Operating System Course Site for OS231](https://os.vlsm.org/)<br>
 This is the Operating System course site. This site contains links to lecture materials, exam questions, and laboratory materials. Obviously, this has to be checked every week for weekly assignments and reports.
@@ -32,7 +36,9 @@ AWK is a command-line-based text-processing program which is very useful to extr
 5. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/)<br>
 This is a nice site to show people some basic knowledge of LFS. This site could definitely help me understanding LFS more.
 <br>
-Week 2
+
+## Week 02
+
 <br> <br>
 1. [Public Key Cryptography: RSA Encryption Algorithm (Video)](https://www.youtube.com/watch?v=wXB-V_Keiu8)<br>
 This is the best RSA Encryption video I've ever seen on Youtube. This video is good for me in explaining the first RSA Encryption algorithm which was founded in the 1970s and how you could derive it.
