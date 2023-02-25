@@ -2,4 +2,4 @@
 <br> <br>
 Vander Gerald Sukandi - 1906350603
 <br> <br>
-[GitHub](https://github.com/additionalSass/os231/) | | [LOG](TXT/mylog.txt) | | [LINKS](LINKS/)
+[GitHub](https://github.com/additionalSass/os231/) | | [LOG](TXT/mylog.txt) | | [LINKS](https://additionalsass.github.io/os231/LINKS/)<br>
