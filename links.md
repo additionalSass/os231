@@ -4,7 +4,6 @@ permalink: LINKS/
 
 # LINKS
 <br>
-
 ## Week 00
 
 <br> <br>
@@ -17,7 +16,6 @@ Why should we download Linux? There are several reasons we should consider, Linu
 3. [11 Reasons Why Linux Is Better Than Windows](https://itsfoss.com/linux-better-than-windows/)<br>
 This is a quick read that gives us reasons from the author on why he believes Linux is better than Windows. This is not bad at all.
 <br>
-
 ## Week 01
 
 <br> <br>
@@ -36,7 +34,6 @@ AWK is a command-line-based text-processing program which is very useful to extr
 5. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/)<br>
 This is a nice site to show people some basic knowledge of LFS. This site could definitely help me understanding LFS more.
 <br>
-
 ## Week 02
 
 <br> <br>
@@ -55,4 +52,17 @@ Access control is a security technique that regulates who or what can view or us
 5. [How Do Linux File Permissions Work?](https://www.howtogeek.com/67987/htg-explains-how-do-linux-file-permissions)<br>
 I got to know informations like "chown change WHO owns the file and what group it belongs, while chmod changes HOW the owners and groups can access the file" The article could explain to me how file permissions in Linux work.
 <br>
+## Week 03
+
+<br> <br>
+1. [An Introduction to Linux File Systems](https://opensource.com/life/16/10/introduction-linux-filesystems/)<br>
+The author of this article intended this article to be his high-level discussion of Linux filesystem concepts. And this article for me personally has explained what the popular filesystems in Linux are and how they work in general.
+
+2. [Linux File System/Structure Explained (Video)](https://www.youtube.com/watch?v=HbgzrKJvDRw/)<br>
+We know there is no Drive C: in Linux. There are no program files. Everything looks like a file, and every Linux distribution have some specified directory. In fact, every operating system that is Linux has its own file structuring. This video has explained linux file system in a nutshell. His way of explaining in the video is quite compact, but meaningful to me.
+
+3. [Explaining File Systems NTFS ,exFAT, and More (Video)](https://www.youtube.com/watch?v=_h30HBYxtws/)<br>
+NTFS, FAT32, exFAT, ext4 and APFS are just some of the file systems used to organize data on storage drives. This video outlines  the differences between these and other file systems, and explains how to choose between them. Very useful video to introduce these common file systems in my opinion.
+<br>
+ 
 <hr>
