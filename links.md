@@ -64,5 +64,15 @@ We know there is no Drive C: in Linux. There are no program files. Everything lo
 3. [Explaining File Systems NTFS ,exFAT, and More (Video)](https://www.youtube.com/watch?v=_h30HBYxtws/)<br>
 NTFS, FAT32, exFAT, ext4 and APFS are just some of the file systems used to organize data on storage drives. This video outlines  the differences between these and other file systems, and explains how to choose between them. Very useful video to introduce these common file systems in my opinion.
 <br>
+## Week 04
+1. [Dynamic Memory Allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)<br>
+Array is basically the most primitive and the simplest of all data structures in computer science, it can act as a list of any elements.C has a dynamic memory allocation procedure where arays can be modified during the runtime and provides some functions to achieve these memory-related tasks. This article tells you about four library functions provided by C defined under \<stdlib.h\ header file to do dynamic memory allocation in C. It could definitely be interesting for me to understand how dynamic memory allocation in C works.
+
+2. [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)<br>
+Physical Address identifies a physical location of required data in a memory. The user never directly deals with the physical address but can access by its corresponding logical address. The user program generates the logical address and thinks that the program is running in this logical address but the program needs physical memory for its execution, therefore, the logical address must be mapped to the physical address by MMU before they are used. This article has helped me understand more of the difference between physical address and logical address.
+
+3. [Understanding Memory Mapping](https://www.ibm.com/docs/en/aix/7.1?topic=memory-understanding-mapping)/)<br>
+The speed at which application instructions are processed on a system is proportionate to the number of access operations required to obtain data outside of program-addressable memory. The system provides two methods for reducing the transactional overhead associated with these external read and write operations. We can map file data into the process address space. We can also map processes to anonymous memory regions that may be shared by cooperating processes. This is worth reading to understand how memory mapping happens.
+<br>
  
 <hr>

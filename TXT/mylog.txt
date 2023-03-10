@@ -34,3 +34,13 @@ ZCZC W03 220 L09 Weekly Assignments
 ZCZC W03 220 L13 Assignment #03
 ZCZC W03 80 L22 Linux CLI including tar, etc.
 ZCZC W03 10 L25 C-language including Make
+
+ZCZC W04 50 L01 Scele/Discord Related
+ZCZC W04 100 L02 ZOOM/Class meetings related
+ZCZC W04 50 L03 Github related
+ZCZC W04 10 L04 Github pages related
+ZCZC W04 60 L05 QUIZ related
+ZCZC W04 20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 150 L09 Weekly Assignments
+ZCZC W04 150 L14 Assignments #04
+ZCZC W04 40 L22 Linux CLI including tar, etc.
