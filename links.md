@@ -76,8 +76,6 @@ Physical Address identifies a physical location of required data in a memory. Th
 3. [Understanding Memory Mapping](https://www.ibm.com/docs/en/aix/7.1?topic=memory-understanding-mapping)/)<br>
 The speed at which application instructions are processed on a system is proportionate to the number of access operations required to obtain data outside of program-addressable memory. The system provides two methods for reducing the transactional overhead associated with these external read and write operations. We can map file data into the process address space. We can also map processes to anonymous memory regions that may be shared by cooperating processes. This is worth reading to understand how memory mapping happens.
 <br>
-<<<<<<< HEAD
-=======
 ## Week 05
 
 <br> <br>
@@ -94,6 +92,6 @@ So, whats the solution then? Get more RAM. The site above explains why computer 
 3. [C structs and Pointers](https://www.programiz.com/c-programming/c-structures-pointers/)<br>
 The tutorial allows the readers to learn how to use pointers to access members of structs in C programming. We as readers can also learn to dynamically allocate memory of struct types. Sometimes, the number of struct variables we would love to declare is insufficient, so we might be needing to allocate memory during run-time. And unsurprisingly, there is a way to achieve this in C.
 <br> <br>
- 
->>>>>>> 1255d52 (Commit minggu kelima OS)
+
+
 <hr>
