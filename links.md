@@ -76,4 +76,24 @@ Physical Address identifies a physical location of required data in a memory. Th
 3. [Understanding Memory Mapping](https://www.ibm.com/docs/en/aix/7.1?topic=memory-understanding-mapping)/)<br>
 The speed at which application instructions are processed on a system is proportionate to the number of access operations required to obtain data outside of program-addressable memory. The system provides two methods for reducing the transactional overhead associated with these external read and write operations. We can map file data into the process address space. We can also map processes to anonymous memory regions that may be shared by cooperating processes. This is worth reading to understand how memory mapping happens.
 <br>
+<<<<<<< HEAD
+=======
+## Week 05
+
+<br> <br>
+1. [What is a Paging File or Pagefile  (Video)] (https://www.youtube.com/watch?v=1VDP5TCAK2c/)<br>
+The idea is a computer should not put all running process on contiguous segments on itsmain memory. Moreover, it's bad to run large multiple processes that will be stored in your main memory. The processes should just be stored in a virtual memory, and cache only important files the VM needs at the moment.
+<br>
+A page map  maps the virtual memory to the physical memory. If page faults occur, meaning data in the physical memories are invalid, these pages will try to acquire them again from the slower disk .The YouTube video is not particularly amazing for me but still an informative video to watch. 
+
+2. [Thrashing in Operating System](https://www.studytonight.com/operating-system/thrashing-in-operating-system/)<br>
+Thrashing in OS happens when page faults happen too often for a process that the processor needs to swap in and swap out too frequently, that it doesn't even do the job .
+<br>
+So, whats the solution then? Get more RAM. The site above explains why computer users shouldn't run too many programs while browsing. Surely we dont want to get 95% of your RAM usage and make our computer feel really slow? When that happens, thrashing is an issue there.
+
+3. [C structs and Pointers](https://www.programiz.com/c-programming/c-structures-pointers/)<br>
+The tutorial allows the readers to learn how to use pointers to access members of structs in C programming. We as readers can also learn to dynamically allocate memory of struct types. Sometimes, the number of struct variables we would love to declare is insufficient, so we might be needing to allocate memory during run-time. And unsurprisingly, there is a way to achieve this in C.
+<br> <br>
+ 
+>>>>>>> 1255d52 (Commit minggu kelima OS)
 <hr>

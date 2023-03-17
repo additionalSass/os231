@@ -44,3 +44,11 @@ ZCZC W04 20 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 150 L09 Weekly Assignments
 ZCZC W04 150 L14 Assignments #04
 ZCZC W04 40 L22 Linux CLI including tar, etc.
+
+ZCZC W05 100 L01 Scele/Discord Related
+ZCZC W05 20 L03 Github Related
+ZCZC W05 30 L04 Github pages related
+ZCZC W05 60 L05 QUIZ related
+ZCZC W05 100 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 270 L09 Weekly Assignments
+ZCZC W05 270 L15 Assignments #05
