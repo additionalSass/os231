@@ -52,3 +52,11 @@ ZCZC W05 60 L05 QUIZ related
 ZCZC W05 100 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W05 270 L09 Weekly Assignments
 ZCZC W05 270 L15 Assignments #05
+
+ZCZC W06 100 L01 Scele/Discord Related
+ZCZC W06 20 L03 Github Related
+ZCZC W06 40 L04 Github Pages Related
+ZCZC W06 80 L05 QuizRelated
+ZCZC W06 50 L06 References/Books related
+ZCZC W06 120 L09 Weekly Assignments
+ZCZC W06 120 L16 Assignments#6

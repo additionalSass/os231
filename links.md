@@ -79,7 +79,7 @@ The speed at which application instructions are processed on a system is proport
 ## Week 05
 
 <br> <br>
-1. [What is a Paging File or Pagefile  (Video)] (https://www.youtube.com/watch?v=1VDP5TCAK2c/)<br>
+1. [What is a Paging File or Pagefile  (Video)](https://www.youtube.com/watch?v=1VDP5TCAK2c/)<br>
 The idea is a computer should not put all running process on contiguous segments on itsmain memory. Moreover, it's bad to run large multiple processes that will be stored in your main memory. The processes should just be stored in a virtual memory, and cache only important files the VM needs at the moment.
 <br>
 A page map  maps the virtual memory to the physical memory. If page faults occur, meaning data in the physical memories are invalid, these pages will try to acquire them again from the slower disk .The YouTube video is not particularly amazing for me but still an informative video to watch. 
@@ -91,7 +91,20 @@ So, whats the solution then? Get more RAM. The site above explains why computer 
 
 3. [C structs and Pointers](https://www.programiz.com/c-programming/c-structures-pointers/)<br>
 The tutorial allows the readers to learn how to use pointers to access members of structs in C programming. We as readers can also learn to dynamically allocate memory of struct types. Sometimes, the number of struct variables we would love to declare is insufficient, so we might be needing to allocate memory during run-time. And unsurprisingly, there is a way to achieve this in C.
-<br> <br>
+<br>
+## Week 06
+<br><br>
+1. [Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm/)<br>
+This site explains that process is a program in execution. The executions of processes have to be done in a sequential fashion. To put it in simple terms, we write our computer programs in a text and when we execute this program, it now becomes a process that performs all the tasks of the program.
 
+2. [Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm/)<br>
+Process scheduling is the activity of the process manager that handles the removal of the running process from the CPU and the selection of another process on the basis of a particular strategy. Process scheduling is an essential part of a Multiprogramming operating systems. Such operating systems allow more than one process to be loaded into the executable memory at a time and the loaded process shares the CPU using time multiplexing.
+
+3. [Multithreading Code - Computerphile (Video)](https://www.youtube.com/watch?v=7ENFeb-J75k/)<br>
+Threads in Linux might be viewed as tasks. Now some threads of a program can cause a problem when doing a computation. For example, if an "a = a + i" line is executed, there are three different commands being considered - that is loading, adding, and storing back to a register. Immediately after threading is finished, those processes could collide and data could be lost. So in order handle that risk, we can use a method called mutex. The video gives a concise, introductory explaination on what this is and how this is used in multithreading.
+
+4. [All You Need To Know About Processes in Linux](https://www.tecmint.com/linux-process-management/)<br>
+A process is a program in execution; its a running instance of a program. A new process is normally created when an existing process makes an exact copy of itself in memory. The child process has the same environment as their parent , but the process's ID number should not be the same. Init (initial) process is the grandmother (parent) of all processes on the system, its the first program that is executed when the Linux system boots up; it manages all other processes on the system. It is started by the kernel itself - in principle it does not have a parent process. This article is like the cheatsheet if I want to deal with processes in Linux. There are lots of command I can type directly from my terminal and try for myself. And if I in the future would work using Linux, this could potentially be useful.
+<br>
 
 <hr>
