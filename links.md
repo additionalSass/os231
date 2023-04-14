@@ -106,5 +106,23 @@ Threads in Linux might be viewed as tasks. Now some threads of a program can cau
 4. [All You Need To Know About Processes in Linux](https://www.tecmint.com/linux-process-management/)<br>
 A process is a program in execution; its a running instance of a program. A new process is normally created when an existing process makes an exact copy of itself in memory. The child process has the same environment as their parent , but the process's ID number should not be the same. Init (initial) process is the grandmother (parent) of all processes on the system, its the first program that is executed when the Linux system boots up; it manages all other processes on the system. It is started by the kernel itself - in principle it does not have a parent process. This article is like the cheatsheet if I want to deal with processes in Linux. There are lots of command I can type directly from my terminal and try for myself. And if I in the future would work using Linux, this could potentially be useful.
 <br>
+## WEEK 07
+<br> <br>
+1. [Synchronization](https://www.studytonight.com/operating-system/process-synchronization/)<br>
+The tutorial is one introduction to the concept of process synchronization in operating systems. Synchronization is made and used to deal with arrising issues of multiple processes being executed.
+
+2. [Process Synchronization: Critical Section Problems in Operating Systems](https://www.guru99.com/process-synchronization.html)<br>
+Process synchronization could be defined as the task of coordinating the execution of processes so that no two processes can access the same shared data and resources at one time. A critical section can be defined as a segment of code which can be accessed by a signal process at a specific point of time. The critical section problem here refers to the problem of how to ensure that at most one process is executing its critical section at a given time. 
+
+3. [Race Conditions and How to Prevent them - Understanding Dekker's Algorithm (Video)] (https://www.youtube.com/watch?v=MqnpIwN7dz0/)<br>
+This video is a prety decent video on Dekker's algorithm or also known as Peterson's algorithm. This algorithm makes use of the wait flag and the turn variable to prevent two processes from using the same resources at one time. This one is a short watch and the algorithm itself is interesting for being one of the first algorithms designed to solve the critical section problem.
+
+4. [Introduction of deadlock in operating system](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+A deadlock is a situation where a group of processes are blocked because each process is holding one resource and waiting for the other processes to acquire other resources.
+Consider an example of two trains traveling toward each other on the same track, only one track, and neither train can move once they are in front of each other. A similar situation might occur in an operating system, in which there are two or more processes holding some resources and waiting for resources held by other processes. 
+
+5. [The difference between starvation and deadlock](https://www.javatpoint.com/os-deadlocks-introduction)<br>
+Deadlock is a situation where no process is blocked and no process proceeds. And starvation is a situation where a low priority process is blocked while a high priority process continues.
+<br>
 
 <hr>
