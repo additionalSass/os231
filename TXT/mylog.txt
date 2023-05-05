@@ -68,3 +68,11 @@ ZCZC W07 100 L05 Quiz Related
 ZCZC W07 100 L06 References related
 ZCZC W07 150 L09 Weekly Assignments
 ZCZC W07 150 L17 Assignments #7
+
+ZCZC W08 120 L01 Scele/Discord Related
+ZCZC W08 30 L03 Github Related
+ZCZC W08 15 L04 Github Pages Related
+ZCZC W08 180 L05 Quiz Related
+ZCZC W08 60 L08 References Related
+ZCZC W08 200 L09 Weekly Assignments
+ZCZC W08 200 L18 Assignments #8

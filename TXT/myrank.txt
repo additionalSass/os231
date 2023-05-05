@@ -1,4 +1,4 @@
-# WEEKLY 7 of 10 RANKS
+# WEEKLY 8 of 10 RANKS
 ZCZC W02 arnindyazhavira
 ZCZC W02 bimohenokh
 ZCZC W03 ByongGul
@@ -11,3 +11,5 @@ ZCZC W06 nois44
 ZCZC W06 novalzfahr
 ZCZC W07 rafimadani
 ZCZC W07 septio-nugroho
+ZCZC W08 alifismady
+ZCZC W08 adlyrndi

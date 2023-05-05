@@ -93,6 +93,8 @@ So, whats the solution then? Get more RAM. The site above explains why computer 
 The tutorial allows the readers to learn how to use pointers to access members of structs in C programming. We as readers can also learn to dynamically allocate memory of struct types. Sometimes, the number of struct variables we would love to declare is insufficient, so we might be needing to allocate memory during run-time. And unsurprisingly, there is a way to achieve this in C.
 <br>
 ## Week 06
+
+
 <br><br>
 1. [Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm/)<br>
 This site explains that process is a program in execution. The executions of processes have to be done in a sequential fashion. To put it in simple terms, we write our computer programs in a text and when we execute this program, it now becomes a process that performs all the tasks of the program.
@@ -106,6 +108,8 @@ Threads in Linux might be viewed as tasks. Now some threads of a program can cau
 4. [All You Need To Know About Processes in Linux](https://www.tecmint.com/linux-process-management/)<br>
 A process is a program in execution; its a running instance of a program. A new process is normally created when an existing process makes an exact copy of itself in memory. The child process has the same environment as their parent , but the process's ID number should not be the same. Init (initial) process is the grandmother (parent) of all processes on the system, its the first program that is executed when the Linux system boots up; it manages all other processes on the system. It is started by the kernel itself - in principle it does not have a parent process. This article is like the cheatsheet if I want to deal with processes in Linux. There are lots of command I can type directly from my terminal and try for myself. And if I in the future would work using Linux, this could potentially be useful.
 <br>
+
+
 ## WEEK 07
 <br> <br>
 1. [Synchronization](https://www.studytonight.com/operating-system/process-synchronization/)<br>
@@ -123,6 +127,24 @@ Consider an example of two trains traveling toward each other on the same track,
 
 5. [The difference between starvation and deadlock](https://www.javatpoint.com/os-deadlocks-introduction)<br>
 Deadlock is a situation where no process is blocked and no process proceeds. And starvation is a situation where a low priority process is blocked while a high priority process continues.
+<br>
+
+## WEEK 08
+<br> <br>
+1. [What is Multiprocessor?](https://binaryterms.com/multiple-processor-scheduling.html)<br>
+A multiprocessor is basically a working system with several processors. And with the existence of multiple processors it is obviously complex to design an effective scheduling algorithm.
+
+2. [Multiple-Processor Scheduling in Operating System](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
+In a multiple-processor scheduling multiple CPUs are available and hence Load Sharing is possible. However multiple processors scheduling is more complicated than single processor scheduling. In multiple processor scheduling there are cases when the processors are identical i.e. HOMOGENEOUS, in terms of their functionality, we can use any processor available to run any process in the queue. The writing explains all of that quite clearly.
+
+3. [Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/)<br>
+Linux From Scratch (LFS) is a guide project that provides readers with step-by-step instructions for building their own custom Linux system, entirely from source code(s).
+
+4. [Chapter 5. Compiling a Cross-Toolchain](https://www.linuxfromscratch.org/lfs/view/11.0/chapter05/introduction.html)<br>
+This LFS chapter shows how to build a cross-compiler and its associated tools. Although here cross-compilation is faked, the principles are the same as for a real cross-toolchain.
+
+5. [Linux Really From Scratch](https://elektito.com/2018/12/15/linux-really-from-scratch/)<br>
+This project was made by a programmer from Persia named Mostafa Razavi. The guy read the LFS guide and decided to build Linux really from Scratch, not using that infamous LFS guide. Very interesting insights from experience of a person who tried but didn't get to finish this guide of a project!
 <br>
 
 <hr>
